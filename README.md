@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Teaching myself front-end web development and loving it!
 - 💼 &nbsp; Looking for my first opportunity as a junior developer.
-- 🌱 &nbsp; Focusing on improving my skills in Javascript, React and Git.
+- 🌱 &nbsp; My goal is to master JavaScript and React 🤓.
 - ✍️ &nbsp; Having fun building personal projects with these technologies 👇
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
