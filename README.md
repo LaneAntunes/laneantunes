@@ -24,7 +24,7 @@
 <br/>
 
 <br/>
-https://imgur.com/a/o9HklCB
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
