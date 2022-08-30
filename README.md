@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Lane.</h2>
-![myProfile](images/readMePortfolio.gif)
+![myProfile](https://imgur.com/a/o9HklCB)
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Teaching myself front-end web development loving it.
