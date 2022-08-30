@@ -1,6 +1,7 @@
-<h2> Hey there! I'm Lane.</h2>
+## Hey there! I'm Lane. 
 
-"<img  src="images/readMePortfolio.gif" style="float: right"/>
+<img  src="images/readMePortfolio.gif"  width="300px"/>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Teaching myself front-end web development loving it.
