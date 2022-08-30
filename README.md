@@ -31,6 +31,6 @@
 <a href="mailto:laneantunes51@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-laneantunes51@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p align="center">
-<img  src="images/readMePortfolio.gif"  width="350px"/>
+<img  src="images/portfolio.gif"  width="350px"/>
 </p>
 
