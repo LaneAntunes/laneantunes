@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Lane.</h2>
-![](src/assets/readMePortfolio.gif)
+![](images/readMePortfolio.gif)
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Teaching myself front-end web development loving it.
