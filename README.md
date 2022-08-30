@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Lane.</h2>
-![](images/readMePortfolio.gif)
-"<img src="images/readMePortfolio.gif" />"
+
+"<img style="float: right" src="images/readMePortfolio.gif" />"
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Teaching myself front-end web development loving it.
