@@ -1,7 +1,5 @@
 ## Hey there! I'm Lane. 
 
-<img  src="images/readMePortfolio.gif"  width="300px"/>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Teaching myself front-end web development loving it.
@@ -32,5 +30,7 @@
 <a href="https://laneantunes.github.io/myportfoliowebsite/#/"><img alt="Website" src="https://img.shields.io/badge/Website-www.laneantunes.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:laneantunes51@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-laneantunes51@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+<p align="center">
+<img  src="images/readMePortfolio.gif"  width="350px"/>
+</p>
 
-⭐️ From [Lane](https://github.com/LaneAntunes)
