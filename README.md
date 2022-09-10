@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - Teaching myself front-end web development and loving it!
-- Looking for my first opportunity as a junior developer.
 - My goal is to master JavaScript and React 🤓.
 - Having fun building personal projects with these technologies 👇
 
