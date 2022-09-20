@@ -26,7 +26,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://laneantunes.github.io/myportfoliowebsite/#/"><img alt="Website" src="https://img.shields.io/badge/Website-www.laneantunes.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://laneantunes.com/#/"><img alt="Website" src="https://img.shields.io/badge/Website-www.laneantunes.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:laneantunes51@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-laneantunes51@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p align="center">
