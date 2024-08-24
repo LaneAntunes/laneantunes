@@ -23,11 +23,18 @@ Let’s build something amazing together!
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![SourceTree](https://img.shields.io/badge/-SourceTree-333333?style=flat&logo=sourcetree)
 - 🔧 &nbsp;
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![RTK Query](https://img.shields.io/badge/-RTK%20Query-333333?style=flat&logo=redux-toolkit) <!-- If no badge exists, you might use a generic Redux Toolkit badge -->
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 <br/>
 
 <br/>
