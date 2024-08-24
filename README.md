@@ -33,7 +33,6 @@ Let’s build something amazing together!
 - 🔧 &nbsp;
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![RTK Query](https://img.shields.io/badge/-RTK%20Query-333333?style=flat&logo=redux-toolkit) <!-- If no badge exists, you might use a generic Redux Toolkit badge -->
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
 
