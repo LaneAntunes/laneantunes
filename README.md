@@ -12,7 +12,7 @@ Expand my portfolio with projects that demonstrate both functionality and innova
 🚀 What I'm Up To:
 
 Actively contributing to web and mobile applications with clean, efficient code.
-Available to collaborate on exciting new projects for 5-15 hours per week.
+Available to collaborate on exciting new projects.
 
 Let’s build something amazing together!
 
